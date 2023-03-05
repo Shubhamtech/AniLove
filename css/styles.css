@@ -1,0 +1,121 @@
+
+.title{
+ background: linear-gradient(to right, #f12711, #f5af19);;
+color: #fff;
+}
+.container-fluid{
+  padding:3% 15%;
+
+}
+h1{
+  font-family: 'Bubblegum Sans', cursive;
+font-size: 3.5rem;
+line-height: 2.0;
+}
+h2{
+  font-family:'ubantu' ;
+  font-size:2rem;
+  line-height: 1.5;
+}
+h3{
+  font-weight: bolder;
+}
+
+.navbar{
+  border-radius: 25px;
+  padding-bottom: 4.5rem;
+}
+.navbar-brand{
+  font-size: 2.5rem;
+}
+.nav-item{
+  padding: 0 18px; /*(top/bottom,left/right)*/
+}
+.nav-link{
+  font-size: 1.2rem;
+}
+.download-button{
+  margin: 5% 3% 5% 0; /*top left right bottom*/
+}
+.title-image{
+  width : 80%;
+  height: 50%;
+  /*transform: rotate(25deg);*/
+position: relative;
+top:30%;
+
+}
+.features{
+  padding: 7% 15%;
+  background-image: url(https://www.grabweb.in/wp-content/uploads/featuresback.jpg);
+ position: relative;
+ z-index: 1;
+
+}
+.featurebox{
+  text-align:center;
+  padding:5%;
+
+}
+.icon{
+ margin-bottom: 1rem;
+  color: #ef8172;
+}
+.icon:hover{
+  color:#ff4c68;
+}
+.testimonials{
+
+  text-align: center;
+  background: linear-gradient(to right, #11998e, #38ef7d);;
+  color: #fff;
+}
+.carousel-item{
+padding: 7% 15%;
+}
+.testimonial-imge{
+  width:20%;
+  border-radius: 100%;
+  margin:20px;
+}
+.press{
+background: linear-gradient(to right, #11998e, #38ef7d);
+text-align:center;
+padding-bottom: 3%;
+}
+.press img{
+  width: 15%;
+  margin: 20px 20px 40px; /*(top left/right bottom)*/
+}
+.pricing{
+  padding:100px;
+  background: linear-gradient(to right, #fc00ff, #00dbde);
+}
+.head{
+  font-weight: bolder;
+  color:#fff;
+}
+.pricing-p1{
+color:#fff;
+}
+.pricing-column{
+  padding: 2% 3%;
+}
+.cta{
+  background: linear-gradient(to right, #003973, #e5e5be);
+padding:7% 15%;
+text-align: center;
+}
+.cta-fonts{
+font-family: 'Bubblegum Sans', cursive;
+font-size: 2.5rem;
+line-height: 1.0;
+}
+.footer{
+  background: linear-gradient(to right, #003973, #e5e5be);
+  padding: 7% 15%;
+  text-align:center;
+}
+.social-icon{
+  margin:20px 10px; /*(top/bottom,left/right)*/
+}
